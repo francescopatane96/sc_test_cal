@@ -1,0 +1,10 @@
+00_config.R parse OK
+01_helpers.R parse OK
+02_prepare.R parse OK
+03_analysis.R parse OK
+04_RF.R parse OK
+INSTALL.R parse OK
+RUN_ALL.R parse OK
+RUN_RF.R parse OK
+TEST_HELPERS.R parse OK
+PASS: esclusioni, design, collinearita, aggregazione, universo ORA.
